@@ -1,0 +1,9 @@
+{
+    "editor.formatOnType": true,
+    "[autolisp]": {
+        "editor.wordSeparators": "`|;'\",()"
+    },
+    "cSpell.words": [
+        "ARGB"
+    ]
+}
